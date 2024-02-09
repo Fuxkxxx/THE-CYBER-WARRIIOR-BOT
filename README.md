@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="MANNO" width="600" height="350" src="https://i.imgur.com/ppd1XA0.jpg">
+    <img alt="𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹" width="600" height="350" src="https://i.imgur.com/ur24PoA.jpg">
   </a>
 </p>
 
