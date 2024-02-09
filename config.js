@@ -61,9 +61,9 @@ global.APIKeys = { // APIKey Here
 
 // Bot Images 
 global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
-global.imagen2 = fs.readFileSync("./Assets/menus/menu1.jpg")
-global.imagen3 = fs.readFileSync("./Assets/menus/menu2.jpg")
-global.imagen4 = fs.readFileSync("./Assets/menus/menu3.jpg")
+global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
+global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
+global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
 global.imagen5 = fs.readFileSync("./Assets/menus/img2.jpg")
 global.imagen6 = fs.readFileSync("./Assets/menus/img5.jpg")
 global.imagen7 = fs.readFileSync("./Assets/menus/img6.jpg")
