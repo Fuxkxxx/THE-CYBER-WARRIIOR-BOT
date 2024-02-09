@@ -12,8 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923140053156", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", true],
-  ["6797285516", "⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)", true], 
+  ["923140053156", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", true]
   [''] 
 ]
 //💌------------------------------------------💌
@@ -61,9 +60,9 @@ global.APIKeys = { // APIKey Here
 
 // Bot Images 
 global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
-global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
-global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
-global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
+global.imagen2 = fs.readFileSync("./Assets/menus/menu1.jpg")
+global.imagen3 = fs.readFileSync("./Assets/menus/menu2.jpg")
+global.imagen4 = fs.readFileSync("./Assets/menus/menu3.jpg")
 global.imagen5 = fs.readFileSync("./Assets/menus/img2.jpg")
 global.imagen6 = fs.readFileSync("./Assets/menus/img5.jpg")
 global.imagen7 = fs.readFileSync("./Assets/menus/img6.jpg")
@@ -127,7 +126,7 @@ global.packname = '🌸🤭- " 𝐀 𝐅ɑkə 𝐒mıɭə 𝐂ɑη ┣𝐥ıdə 
 global.author = '𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm'
-global.menuvid = 'https://i.imgur.com/ur24PoA.jpg'
+global.menuvid = 'https://telegra.ph/file/173eb5a7684faa975f036.mp4'
 global.Princesc = 'https://github.com/Itxmanno05/THE-MANNO-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/ur24PoA.jpg'
