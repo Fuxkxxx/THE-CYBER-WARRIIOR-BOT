@@ -12,8 +12,8 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923140053156", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", false],
-  [''], 
+  ["923140053156", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", true],
+  ["6797285516", "⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)", true], 
   [''] 
 ]
 //💌------------------------------------------💌
@@ -131,7 +131,7 @@ global.menuvid = 'https://i.imgur.com/ur24PoA.jpg'
 global.Princesc = 'https://github.com/Itxmanno05/THE-MANNO-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/ur24PoA.jpg'
-global.thumb = fs.readFileSync('./Assets/Mano.jpg')
+global.thumb = fs.readFileSync('./Assets/cyberworrior.jpg')
 //💌------------------------------------------💌
 
 
