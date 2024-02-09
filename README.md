@@ -17,7 +17,7 @@
 <a href="https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIORBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">🛡️MANNO-BOT-MÐ🛡️</h1>
+<h1 align="center">THE-CYBER-WARRIIOR-BOT</h1>
 
 #### 🪩 To Change the owner number click here [CHANGE ONWER](https://github.com/Itxmanno05/THE-MANNO-BOT/blob/main/plugins/main-creator.js#L7)🪩
 
@@ -73,7 +73,7 @@
 
 
    <p align="left">
-      <a href="https://chat.whatsapp.com/FJRSPlUYon8LuaeHrMTqeW"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="[https://chat.whatsapp.com/FJRSPlUYon8LuaeHrMTqeW]([https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm](https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm))"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
 
 
@@ -98,9 +98,9 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
-<h2 align="left">All Credits To MANNO bruh</h2>
+<h2 align="left">All Credits To 𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹</h2>
 
-<a href="https://github.com/Itxmanno05/THE-MANNO-BOT"><img src="https://i.imgur.com/ppd1XA0.jpg" width="70" height="70" alt="Itxmanno05"/></a>
+<a href="https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT"><img src="https://i.imgur.com/ppd1XA0.jpg" width="70" height="70" alt="CYBER-WARRIIOR"/></a>
   
-`ITX-MANNO MANNO246`
+`CYBER-WARRIIOR`
 
