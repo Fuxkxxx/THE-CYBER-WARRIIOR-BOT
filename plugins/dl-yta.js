@@ -25,7 +25,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
 
     m.react(done); 
   } catch {
-    await m.reply(`*🄼 GRANTED-BY-THE-MANNO-MD*.`)
+    await m.reply(`*🄼 GRANTED-BY-CYBER-WARRIROR-MD*.`)
   }
 };
 
