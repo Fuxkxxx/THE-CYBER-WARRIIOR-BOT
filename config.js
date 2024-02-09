@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923097045246", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", false],
+  ["923140053156", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", false],
   [''], 
   [''] 
 ]
@@ -115,7 +115,7 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/923097045246' //contact
+global.developer = 'https://wa.me/message/923140053156' //contact
 //💌------------------------------------------💌
 
 
@@ -137,8 +137,8 @@ global.thumb = fs.readFileSync('./Assets/Mano.jpg')
 
 
 //Reactions
-global.wait = '*⏳ _ＵＰＬＯＡＤＩＮＧ ＹＯＵＲＥ ＦＩＬＥ ..._*\n*▰▰▰▱▱*'
-global.imgs = '*🖼️ _ＵＰＬＯＡＤＩＮＧ  ＹＯＵＲＥ ＩＭＡＧＥ ..._*\n*▰▰▰▱▱*'
+global.wait = '*⏳ _Uploading Your File ..._*\n*▰▰▰▱▱*'
+global.imgs = '*🖼️ _Uploading Your Image ..._*\n*▰▰▰▱▱*'
 global.rwait = '⏳'
 global.dmoji = '🤭'
 global.done = '✅'
