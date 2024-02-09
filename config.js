@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923097045246", "*⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*", false],
+  ["923097045246", "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹", false],
   [''], 
   [''] 
 ]
@@ -20,9 +20,9 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923097045246'] 
-global.prems = ['923097045246']
-global.allowed = ['923097045246']
+global.mods = [923140053156'] 
+global.prems = [923140053156']
+global.allowed = [923140053156']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -75,23 +75,23 @@ global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
 
 
 
-global.img = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img2 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img3 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg' 
-global.img4 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg' 
-global.img5 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img6 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img7 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img8 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img9 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img10 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img11 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img12 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img13 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img14 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img15 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img16 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img17 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
+global.img = 'https://i.imgur.com/ur24PoA.jpg'
+global.img2 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img3 = 'https://i.imgur.com/ur24PoA.jpg' 
+global.img4 = 'https://i.imgur.com/ur24PoA.jpg' 
+global.img5 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img6 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img7 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img8 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img9 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img10 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img11 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img12 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img13 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img14 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img15 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img16 = 'https://i.imgur.com/ur24PoA.jpg'
+global.img17 = 'https://i.imgur.com/ur24PoA.jpg'
 //💌------------------------------------------💌
 
 
@@ -121,16 +121,16 @@ global.developer = 'https://wa.me/message/923097045246' //contact
 
 
 //Sticker WM
-global.botname = '*MANNO-BOT-MÐ*'
-global.princebot = '*🛡️𝘔𝘈𝘕𝘕𝘕𝘖-𝘉𝘖𝘛-𝘔𝘋🛡️*'
-global.packname = '𝘔𝘈𝘕𝘕𝘕𝘖-𝘉𝘖𝘛♥️' 
-global.author = '' 
+global.botname = '*𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹 𝑩𝑶𝑻*'
+global.princebot = '𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹 𝑩𝑶𝑻*'
+global.packname = '🌸🤭- " 𝐀 𝐅ɑkə 𝐒mıɭə 𝐂ɑη ┣𝐥ıdə  𝐌ıɭɭıoηs 𝐎f 𝐓əɑrs ||%❤😚' 
+global.author = '𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
-global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
+global.princegp = 'https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm'
+global.menuvid = 'https://i.imgur.com/ur24PoA.jpg'
 global.Princesc = 'https://github.com/Itxmanno05/THE-MANNO-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://i.imgur.com/ur24PoA.jpg'
 global.thumb = fs.readFileSync('./Assets/Mano.jpg')
 //💌------------------------------------------💌
 
