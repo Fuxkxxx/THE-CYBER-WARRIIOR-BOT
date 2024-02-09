@@ -24,14 +24,14 @@ const handler = async (m, {conn, command, args, text, usedPrefix}) => {
     } else if (command === 'video') {
       additionalText = 'video 🎥';
     }
-    const texto1 = `╭━━⊱🌟 *𝐌𝐀𝐍𝐍𝐎 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐃𝐋* 🌟⊱━━╮
+    const texto1 = `╭━━⊱🌟 * 𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹 𝐃𝐋* 🌟⊱━━╮
     
   *🪩 Channel: ${yt_play[0].author.name}*
   *📃 Title: ${yt_play[0].title}*
   *⏰ Duration: ${secondString(yt_play[0].duration.seconds)}*
   *🎴 Views: ${yt_play[0].views}*
   *🔗 Link: ${yt_play[0].url}*
-*⊱─━⊱༻MANNO-BOT-MÐ༺⊰━─⊰*`;
+*⊱─━⊱༻𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹-MD༺⊰━─⊰*`;
     conn.sendMessage(m.chat, {image: {url: yt_play[0].thumbnail}, caption: texto1}, {quoted: m});
     if (command == 'play') {
     try {
