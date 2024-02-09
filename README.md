@@ -19,7 +19,7 @@
  
 <h1 align="center">THE-CYBER-WARRIIOR-BOT</h1>
 
-#### 🪩 To Change the owner number click here [CHANGE ONWER](https://github.com/Itxmanno05/THE-MANNO-BOT/blob/main/plugins/main-creator.js#L7)🪩
+#### 🪩 To Change the owner number click here [CHANGE ONWER](https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT/blob/main/plugins/main-creator.js#L7)🪩
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
@@ -43,7 +43,7 @@
        <p align="left"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### 2. Deploy Now.
-   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Itxmanno05/THE-MANNO-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -55,7 +55,7 @@
 
 2. Now Deploy
     <br>
-<p align="left"><a href="https://repl.it/github/Itxmanno05/THE-MANNO-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://repl.it/github/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 <h2 align="left">DEPLOY TO KOYEB</h2> 
 
@@ -65,7 +65,7 @@
 
 #### 2. Now deploy
    <br>
-  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FItxmanno05%2FTHE-MANNO-BOT&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
+  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FCYBER-WARRIIOR%2FTHE-CYBER-WARRIIOR-BOT&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
 
 
 <h1 align="left">suᴘᴘoʀт ԍʀouᴘ ʟιɴκ</h1>
@@ -73,7 +73,7 @@
 
 
    <p align="left">
-      <a href="[https://chat.whatsapp.com/FJRSPlUYon8LuaeHrMTqeW]([https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm](https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm))"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="[https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm]([https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm](https://chat.whatsapp.com/JuG5xKdjcQ5HJMbTweh1Zm))"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
 
 
