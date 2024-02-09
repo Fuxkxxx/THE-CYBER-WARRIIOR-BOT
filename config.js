@@ -100,7 +100,7 @@ global.gpt1 = fs.readFileSync("./Assets/GPT/gpt1.jpg")
 global.gpt2 = fs.readFileSync("./Assets/GPT/gpt2.png")
 global.gpt3 = fs.readFileSync("./Assets/GPT/gpt3.png")
 global.gpt4 = fs.readFileSync("./Assets/GPT/gpt4.png")
-global.gpt5 = fs.readFileSync("./Assets/GPT/gpt5.png. ")
+global.gpt5 = fs.readFileSync("./Assets/GPT/gpt5.png")
 global.gpt6 = fs.readFileSync("./Assets/GPT/gpt6.png")
 //💌------------------------------------------💌
 
