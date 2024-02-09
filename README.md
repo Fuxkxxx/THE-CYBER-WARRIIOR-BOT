@@ -7,14 +7,14 @@
 
 
 <p align="center">
-<a href="https://github.com/Itxmanno05/THE-MANNO-BOT"><img title="Author" src="https://img.shields.io/badge/THE MANNO BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT"><img title="Author" src="https://img.shields.io/badge/THE CYBER-WARRIIOR BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/Itxmanno05?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxmanno05?label=Followers&style=social"></a>
-<a href="https://github.com/Itxmanno05/THE-MANNO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxmanno05/THE-MANNO-BOT?&style=social"></a>
-<a href="https://github.com/Itxmanno05/THE-MANNO-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxmanno05/THE-MANNO-BOT?style=social"></a>
-<a href="https://github.com/Itxmanno05/THE-MANNO-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxmanno05/THE-MANNO-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/CYBER-WARRIIOR?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/CYBER-WARRIIOR?label=Followers&style=social"></a>
+<a href="https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT?&style=social"></a>
+<a href="https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT?style=social"></a>
+<a href="https://github.com/CYBER-WARRIIOR/THE-CYBER-WARRIIORBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CYBER-WARRIIOR/THE-CYBER-WARRIIOR-BOT?label=Watching&style=social"></a>
 </p>
  
 <h1 align="center">🛡️MANNO-BOT-MÐ🛡️</h1>
