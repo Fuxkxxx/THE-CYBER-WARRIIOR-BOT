@@ -19,7 +19,7 @@ const handler = async (m, {
     conn.GURUPLAY = conn.GURUPLAY ? conn.GURUPLAY : {};
     await conn.reply(m.chat, wait, m);
     const result = await searchAndDownloadMusic(text);
-    const infoText = `🎧🎼『 *𝙈𝘼𝙉𝙉𝙊 𝙋𝙇𝙔𝙀𝙍* 』🎼🎧
+    const infoText = `🎧🎼『 *𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹* 』🎼🎧
 
     
    
