@@ -14,7 +14,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
   m.react('🎧') 
   
   let play = `
-╭━━⊱│✫PRINCE YTDL✫│⊱━━╮
+╭━━⊱│✫𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹✫│⊱━━╮
 │✫ -📌 *TITLE:* ${vid.title}
 │✫ -📆 *UPLOAD:* ${vid.ago}
 │✫ -⌚ *DURATION:* ${vid.timestamp}
@@ -34,7 +34,7 @@ try {
      
 	  if(!isLimit) conn.sendFile(m.chat, dl_url, title + '.mp' + (3 + /vid$/.test(command)), `
  
-╭━━⊱│✫ - 「PRINCE YTDL」 - ✫│⊱━━╮ 
+╭━━⊱│✫ - 「𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹」 - ✫│⊱━━╮ 
 │✫ - *📌Title* : ${title}
 │✫ - *🎞️Pixels* : ${quality}
 │✫ - *⚖️Size* : ${size}
@@ -50,7 +50,7 @@ try {
      await conn.loadingMsg(m.chat, '📥 Downloading', ` ${isLimit ? `≡  *PRINCE YTDL*\n\n▢ *⚖️SIZE*: ${size}\n▢ *🎞️QUALITY*: ${quality}\n\n▢ _LIMITDL_ *+${limit} MB*` : '✅ Download Completed' }`, ["▬▭▭▭▭▭", "▬▬▭▭▭▭", "▬▬▬▭▭▭", "▬▬▬▬▭▭", "▬▬▬▬▬▭", "▬▬▬▬▬▬"], m)
 	  if(!isLimit) conn.sendFile(m.chat, dl_url, title + '.mp' + (3 + /2$/.test(command)), `
  
-╭━━⊱│✫ - 「PRINCE YTDL」 - ✫│⊱━━╮
+╭━━⊱│✫ - 「𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹」 - ✫│⊱━━╮
   
 *📌TITLE* : ${title}
 *🎞️QUALITY* : ${quality}
