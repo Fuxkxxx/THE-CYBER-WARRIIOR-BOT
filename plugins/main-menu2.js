@@ -438,7 +438,7 @@ ${readMore}
 }
 handler.help = ['main']
 handler.tags = ['group']
-handler.command = ['menu', 'help','h','commands'] 
+handler.command = ['menu3', 'help','h','commands'] 
 
 export default handler
 function clockString(ms) {
