@@ -397,35 +397,34 @@ import {
    
     global.fcontact = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: 'status@broadcast' }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
     const infoText = `
-   🛡️ ${botname} 🛡️\n
+   ╭━༻𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹༺⊰━─
     Hᴀɪɪɪ ${name}👋🏻
     
-     ${readMore}
+     
+╭━⊱「Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ⊱━╮
+┃
+┃🕋✫ - 「${usedPrefix}𝘘𝘶𝘳𝘢𝘯𝘮𝘦𝘯𝘶
+┃📚✫ - 「${usedPrefix}𝘚𝘵𝘶𝘥𝘺𝘮𝘦𝘯𝘶
+┃🛡️✫ - 「${usedPrefix}𝘖𝘸𝘯𝘦𝘳𝘮𝘦𝘯𝘶
+┃💌✫ - 「${usedPrefix}𝘉𝘰𝘵𝘮𝘦𝘯𝘶 
+┃🧬✫ - 「${usedPrefix}𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶
+┃📥✫ - 「${usedPrefix}𝘋𝘭𝘮𝘦𝘯𝘶
+┃🧰✫ - 「${usedPrefix}𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶
+┃🎨✫ - 「${usedPrefix}𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶
+┃🎉✫ - 「${usedPrefix}𝘍𝘶𝘯𝘮𝘦𝘯𝘶 
+┃🎮✫ - 「${usedPrefix}𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶
+┃🎩✫ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
+┃
+┃ *${usedPrefix}ᴍᴇɴᴜ2 ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
+┃ *${usedPrefix}ᴍᴇɴᴜ3 ғᴏʀ sᴘᴇᴄɪᴀʟ ᴍᴇɴᴜ ʟɪsᴛ*
+┃
+┃
+┃ *${greeting}*
+╰━━━━━━━━━━━━━━━━━━━━━━━━╯
 
-  ╭━━━━⊱⊱『 *INFO*』⊱⊱⊱━━━━━╮ 
-  │ *Rᴇᴘʟʏ ᴡɪᴛʜ ᴛʜᴇ ɴᴜᴍʙᴇʀ*
-  │ *ᴛᴏ ɢᴇᴛ ᴍᴇɴᴜ*
-  ╰───────⳹
+𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹
 
-  
-  ╭━━⊱━━⊱⊱「ᴀʟʟ ᴍᴇɴᴜs」⊱⊱━━⊱━╮
-  │✫ -  *1.* ʙᴏᴛ ᴍᴇɴᴜ
-  │✫ -  *2.* ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-  │✫ -  *3.* ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-  │✫ -  *4.* ғᴜɴ ᴍᴇɴᴜ
-  │✫ -  *5.* ʀᴇᴀᴄᴛɪᴏɴ ᴍᴇɴᴜ
-  │✫ -  *6.* ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴍᴇɴᴜ
-  │✫ -  *7.* ɢᴀᴍᴇ ᴍᴇɴᴜ
-  │✫ -  *8.* ʟᴏɢᴏ ᴍᴇɴᴜ
-  │✫ -  *9.* sᴛɪᴄᴋᴇʀ ᴍᴇɴᴜ
-  │✫ -  *10.* ᴀᴜᴅɪᴏ ᴍᴇɴᴜ
-  │✫ -  *11.* ɴᴇᴡs ᴍᴇɴᴜ
-  │✫ -  *12.* sᴛᴜᴅʏ ᴍᴇɴᴜ
-  │✫ -  *13.* ᴛᴏᴏʟs ᴍᴇɴᴜ
-  │✫ -  *14.* ᴀɪ ᴍᴇɴᴜ
-  │✫ -  *15.* ʀᴇʟɪɢɪᴏɴ ᴍᴇɴᴜ
-  │✫ -  *16.* ᴘʟᴜɢɪɴ ᴍᴇɴᴜ
-  ╰━━━━━━━━━━━━━━━━━━━━╯`
+🌸🤭- " 𝐀 𝐅ɑkə 𝐒mıɭə 𝐂ɑη ┣𝐥ıdə  𝐌ıɭɭıoηs 𝐎f 𝐓əɑrs ||%❤😚`
 ;
 
   
@@ -454,67 +453,67 @@ import {
     const choice = m.text.trim();
     
     if (choice === "1") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: botmenu
       }, { quoted: m});
       } else if (choice === "2") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: ownermenu
       }, { quoted: m});
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "4") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: funmenu
       }, { quoted: m});
       } else if (choice === "5") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: reactmenu
       }, { quoted: m});
       } else if (choice === "6") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: dlmenu
       }, { quoted: m});
       } else if (choice === "7") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "8") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: logomenu
       }, { quoted: m});
       } else if (choice === "9") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: stickermenu
       }, { quoted: m});
       } else if (choice === "10") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: audiomenu
       }, { quoted: m});
       } else if (choice === "11") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: newsmenu
       }, { quoted: m});
       } else if (choice === "12") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: studymenu
       }, { quoted: m});
       } else if (choice === "13") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: toolsmenu
       }, { quoted: m});
       } else if (choice === "14") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: Aimenu
       }, { quoted: m});
       } else if (choice === "15") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/2BnfZMp.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: religionmenu
       }, { quoted: m});
       } else if (choice === "16") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/nQBFVVQ.jpeg' },
         caption: pluginmenu
       }, { quoted: m});
       } else {
@@ -526,7 +525,7 @@ import {
   
   handler.help = ["play"];
   handler.tags = ["main"];
-  handler.command = /^(menu3)$/i;
+  handler.command = /^(menu)$/i;
   handler.limit = false;
   export default handler;
   
