@@ -18,7 +18,7 @@ let handler = async function (m, { conn, __dirname }) {
       const formattedInfo = `
 ╭⊱✫🛡️𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹🛡️✫⊱╮
 │✫ - *📂Repository Name: ${repoData.name}*
-│✫ - *📃Description: ${repoData.description}*
+│✫ - *📃Description: *𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹*
 │✫ - *🛡️Owner: ${repoData.owner.login}*
 │✫ - *⭐Stars: ${repoData.stargazers_count}*
 │✫ - *💌Forks: ${repoData.forks_count}*
