@@ -1,13 +1,19 @@
 {
-  "name": "whatsapp-bot (PRINCE-BOT)",
-  "description": " Whatsapp bot.",
-  "keywords": [
-    "whatsapp bot"
-  ],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "name": "MANNO-BOT",
+  "description": "MANNO-MD A WhatsApp User BOT",
+  "logo": "https://i.imgur.com/uYjI1Fl.jpeg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "repository": "https://github.com/Itxmanno05/THE-MANNO-BOT",
+  
   "stack": "container",
   "env": {
-       "DATABASE_URL": {
+      "OWNERS": {
+      "description": "Put your Number as Owner",
+      "required": true,
+      "value": "923097045246;MANNO-2.0"
+
+     },
+      "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
       "value": ""
@@ -18,7 +24,7 @@
       "value": "public"
        },
      "HKEY": {
-      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "description": "Put your Heroku API key Here",
       "required": true,
       "value": ""
     },
@@ -28,37 +34,50 @@
       "value": ""
        },
     "PREFIX": {
-      "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
       "value": ""
      },
     "antidelete": {
-      "description": "bot will forward deleted messages if you make it true",
+      "description": "BOT will forward deleted messages if you make it true",
       "required": false,
       "value": "false"
        },
-    "statusview": {
-      "description": "make it true if you want bot to view status",
+    "BOT_NAME": {
+      "description": "Put your BOT a name",
+      "required": true,
+      "value": "*🛡️MANNO-BOT-MÐ🛡️*"
+      },
+    "DL_MSG": {
+      "description": "Video downloader caption",
+      "required": true,
+      "value": "💌--------------------🛡️MANNO-MÐ🛡️----------------------💌"
+       },
+    "STATUSVIEW": {
+      "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "false"
     },
-    "autoRead": {
-      "description": "make it true if you want bot to read messages",
+    "AutoReaction": {
+      "description": "Make it true if you want bot to react on chats",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "put your session ID here in the box below",
       "required": true,
       "value": ""
     }
-    },
-    "buildpacks": [
+    
+   
+  },
+    
+  "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
